@@ -1,4 +1,13 @@
-# Academic Pages
+# Home Page
+
+This is a personal homepage with academic info and other projects. You are welcome to visit from the top right corner.
+
+# Feedback
+
+Contact me directly through the email or social media links on the website if you have any feedback for this page.
+
+
+<!-- # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
@@ -94,3 +103,4 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+ -->
